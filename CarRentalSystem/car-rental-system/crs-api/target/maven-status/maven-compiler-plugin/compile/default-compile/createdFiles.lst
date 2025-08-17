@@ -1,0 +1,5 @@
+com\dharasudipta\crs\domain\CRSException.class
+com\dharasudipta\crs\domain\Car.class
+com\dharasudipta\crs\domain\Reservation.class
+com\dharasudipta\crs\port\in\ReservationApi.class
+com\dharasudipta\crs\domain\CarType.class
